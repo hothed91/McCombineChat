@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mccombinechat",
+  "name": "McCombineChat",
+  "description": "Combines Chats from Multiple Servers",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hothed91"],
+  "credits": "Hothed91 and Pegwymonie",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

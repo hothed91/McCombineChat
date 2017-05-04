@@ -1,1 +1,46 @@
-# Add any directories, files, or patterns you don't want to be tracked by version control
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+gradle/
+gradle.properties
+build
+*.gradle
+gradlew
+
+# other
+eclipse
+run
+saves/
+config/
+options.txt
+usercache.json
+usernamecache.json
+logs/
+crash-reports/
+*.launch
+*.bat
+*.jar
+
+# Minecraft
+minecraft
+
+#forge
+CREDITS-fml.txt
+LICENSE-new.txt
+MinecraftForge-Credits.txt
+Paulscode*.txt
+forge-*-changelog.txt
+
